@@ -1,0 +1,219 @@
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.endpoints.json
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\MySqlConnector.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\Donationcompnent\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\WebApplication1.sourcelink.json
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\WebApplication1.dll
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\WebApplication1.pdb
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\appsettings.Development.json
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\WebApplication1.staticwebassets.endpoints.json
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\appsettings.json
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\WebApplication1.exe
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\WebApplication1.deps.json
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\WebApplication1.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\WebApplication1.pdb
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Humanizer.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\MySqlConnector.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\System.CodeDom.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\staticwebassets.build.json
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\staticwebassets.development.json
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\C-Dac Prj\BetterFund\DotNet\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

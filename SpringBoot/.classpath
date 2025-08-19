@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BetterFund/src/main/java"/>
+	<classpathentry kind="src" path="BetterFund/src/test/java"/>
+	<classpathentry kind="src" path="Spring Boot/BetterFundLogin/src/main/java"/>
+	<classpathentry kind="src" path="Spring Boot/BetterFundLogin/src/test/java"/>
+	<classpathentry kind="output" path="BetterFund/target/classes"/>
+</classpath>

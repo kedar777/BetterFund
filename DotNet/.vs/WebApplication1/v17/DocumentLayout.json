@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C-Dac Prj\\BetterFund\\DotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C01239D7-19B1-4AC2-8062-4DA683BD252F}|WebApplication1.csproj|d:\\c-dac prj\\betterfund\\dotnet\\controllers\\donatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01239D7-19B1-4AC2-8062-4DA683BD252F}|WebApplication1.csproj|solutionrelative:controllers\\donatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01239D7-19B1-4AC2-8062-4DA683BD252F}|WebApplication1.csproj|d:\\c-dac prj\\betterfund\\dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C01239D7-19B1-4AC2-8062-4DA683BD252F}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01239D7-19B1-4AC2-8062-4DA683BD252F}|WebApplication1.csproj|d:\\c-dac prj\\betterfund\\dotnet\\controllers\\successstoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01239D7-19B1-4AC2-8062-4DA683BD252F}|WebApplication1.csproj|solutionrelative:controllers\\successstoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01239D7-19B1-4AC2-8062-4DA683BD252F}|WebApplication1.csproj|d:\\c-dac prj\\betterfund\\dotnet\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01239D7-19B1-4AC2-8062-4DA683BD252F}|WebApplication1.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01239D7-19B1-4AC2-8062-4DA683BD252F}|WebApplication1.csproj|d:\\c-dac prj\\betterfund\\dotnet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01239D7-19B1-4AC2-8062-4DA683BD252F}|WebApplication1.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01239D7-19B1-4AC2-8062-4DA683BD252F}|WebApplication1.csproj|d:\\c-dac prj\\betterfund\\dotnet\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01239D7-19B1-4AC2-8062-4DA683BD252F}|WebApplication1.csproj|solutionrelative:controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01239D7-19B1-4AC2-8062-4DA683BD252F}|WebApplication1.csproj|d:\\c-dac prj\\betterfund\\dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01239D7-19B1-4AC2-8062-4DA683BD252F}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonateController.cs",
+              "DocumentMoniker": "D:\\C-Dac Prj\\BetterFund\\DotNet\\Controllers\\DonateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonateController.cs",
+              "ToolTip": "D:\\C-Dac Prj\\BetterFund\\DotNet\\Controllers\\DonateController.cs",
+              "RelativeToolTip": "Controllers\\DonateController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:25:10.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C-Dac Prj\\BetterFund\\DotNet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\C-Dac Prj\\BetterFund\\DotNet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T05:18:05.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\C-Dac Prj\\BetterFund\\DotNet\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
+              "ToolTip": "D:\\C-Dac Prj\\BetterFund\\DotNet\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T05:13:56.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\C-Dac Prj\\BetterFund\\DotNet\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\C-Dac Prj\\BetterFund\\DotNet\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T05:13:27.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "D:\\C-Dac Prj\\BetterFund\\DotNet\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedbackController.cs",
+              "ToolTip": "D:\\C-Dac Prj\\BetterFund\\DotNet\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T05:12:38.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuccessStoriesController.cs",
+              "DocumentMoniker": "D:\\C-Dac Prj\\BetterFund\\DotNet\\Controllers\\SuccessStoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SuccessStoriesController.cs",
+              "ToolTip": "D:\\C-Dac Prj\\BetterFund\\DotNet\\Controllers\\SuccessStoriesController.cs",
+              "RelativeToolTip": "Controllers\\SuccessStoriesController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T05:12:24.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C-Dac Prj\\BetterFund\\DotNet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C-Dac Prj\\BetterFund\\DotNet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T05:09:06.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
